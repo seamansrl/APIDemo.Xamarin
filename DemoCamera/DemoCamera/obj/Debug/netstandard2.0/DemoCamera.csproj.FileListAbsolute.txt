@@ -1,0 +1,16 @@
+C:\Users\g3ne5\Desktop\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\g3ne5\Desktop\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\g3ne5\Desktop\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\DemoCamera.AssemblyInfoInputs.cache
+C:\Users\g3ne5\Desktop\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\DemoCamera.AssemblyInfo.cs
+C:\Users\g3ne5\Desktop\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\DemoCamera.csproj.CoreCompileInputs.cache
+C:\Users\g3ne5\Desktop\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\bin\Debug\netstandard2.0\DemoCamera.deps.json
+C:\Users\g3ne5\Desktop\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\bin\Debug\netstandard2.0\DemoCamera.dll
+C:\Users\g3ne5\Desktop\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\bin\Debug\netstandard2.0\DemoCamera.pdb
+C:\Users\g3ne5\Desktop\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\g3ne5\Desktop\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\g3ne5\Desktop\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\g3ne5\Desktop\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\g3ne5\Desktop\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\DemoCamera.csproj.CopyComplete
+C:\Users\g3ne5\Desktop\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\DemoCamera.dll
+C:\Users\g3ne5\Desktop\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\DemoCamera.pdb
+C:\Users\g3ne5\Desktop\Camera-Xamarin.Forms-master\DemoCamera\DemoCamera\DemoCamera\obj\Debug\netstandard2.0\DemoCamera.csprojAssemblyReference.cache
