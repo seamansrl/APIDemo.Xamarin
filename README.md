@@ -32,3 +32,11 @@ Video de este código en funcionamiento, acá:
 
 https://www.youtube.com/watch?v=QFimhPEH9Co
 
+# Contactanos en:
+https://www.linkedin.com/company/35599193/admin/
+
+# Seguime en:
+https://www.linkedin.com/in/fernando-p-maniglia/
+
+# Conocenos más en:
+https://www.seamansrl.com.ar
